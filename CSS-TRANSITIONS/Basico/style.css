@@ -30,7 +30,7 @@ body {
 
 .card-wrapper {
     text-align: center;
-    display: flex;
+    display: block;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -69,14 +69,15 @@ body {
     opacity: 1;
 } */
 
-.subtitle {
-    /* background-color: aliceblue; */
-    background-position: center;
+.sub {
+    /* background-color: cornsilk; */
+    /* background-position: unset;/ */
+    animation: slidein 3s linear 1s;
 }
 
-.click {
+/* .click {
     font-family: sans-serif;
     font-size: medium;
     font-style: italic;
     background-color: aliceblue;
-}
+} */
