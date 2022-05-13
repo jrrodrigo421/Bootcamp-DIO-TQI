@@ -30,7 +30,7 @@ body {
 
 .card-wrapper {
     text-align: center;
-    display: block;
+    display: block  ;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -72,7 +72,7 @@ body {
 .sub {
     /* background-color: cornsilk; */
     /* background-position: unset;/ */
-    animation: slidein 3s linear 1s;
+    background-attachment: local;
 }
 
 /* .click {
