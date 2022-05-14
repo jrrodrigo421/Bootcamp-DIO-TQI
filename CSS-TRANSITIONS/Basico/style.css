@@ -3,6 +3,7 @@ body {
     /* background-color: #8A2BE2; */
     background-image: url("fundo1.jpg");
     background-position: top;
+    background-size: cover;
 }
 
 .container {
@@ -73,6 +74,11 @@ body {
     /* background-color: cornsilk; */
     /* background-position: unset;/ */
     background-attachment: local;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: dimgrey;
+    font-variant: normal;
+    transition: 0.5s;
 }
 
 /* .click {
