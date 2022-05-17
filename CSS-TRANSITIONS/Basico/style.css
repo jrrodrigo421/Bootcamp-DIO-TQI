@@ -74,11 +74,18 @@ body {
     /* background-color: cornsilk; */
     /* background-position: unset;/ */
     background-attachment: local;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: fantasy;
     font-style: italic;
     color: dimgrey;
-    font-variant: normal;
+    /* font-variant: normal; */
     transition: 0.5s;
+}
+
+.sub1 {
+    color: black;
+    font-style: oblique;
+    font-size: xx-large;
+
 }
 
 /* .click {
