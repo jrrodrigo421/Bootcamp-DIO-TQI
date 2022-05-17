@@ -1,1 +1,1 @@
-#Podem ser inseridos alguns testes em python
+#Podem ser inseridos alguns testes/automações em python
