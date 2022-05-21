@@ -6,6 +6,9 @@ Em progress:
 * GIT
 * HTML 
 * CSS
+*Javascript
+*Programação Orientafa a Objetos com Javascript
+
 
 
 
