@@ -6,11 +6,8 @@ Em progress:
 * GIT
 * HTML 
 * CSS
-*Javascript
-*Programação Orientafa a Objetos com Javascript
-
-
-
+* JavaScript
+* Programação Orientada a Objetos - Js
 
 
 
